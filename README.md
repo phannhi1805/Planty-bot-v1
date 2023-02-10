@@ -10,9 +10,13 @@ After every watering, the ultrasonic sensor would measure the distance from the 
 
 Improvement 
 	•	Use AA or AAA instead of lithium battery so it’s more universal.
+	
 	•	Set up multiple water pumps and moisture sensors so it can water different plants at a time. 
+	
 	•	Have the system play a sound after every watering (maybe just a joyful sound like Japanese rice cookers when they finish cooking or an announcement of what plant was watered). I would implement this but it would be bothersome if the sound goes off in the middle of the night. Need some way to stop the sound, or even the watering, form 10pm to 8pm or so. 
+	
 	•	Have it completely operate on the wifi and a power source instead of connecting to the computer. 
+	
 	•	Be able to take user input of container height and pot size so the system is more versatile. Not sure how to do so unless I make an actual app. Right now the system only caters toward my needs. 
 
 
